@@ -1,0 +1,14 @@
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\bin\Debug\net10.0\RetoClinicaVeterinaria.exe
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\bin\Debug\net10.0\RetoClinicaVeterinaria.deps.json
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\bin\Debug\net10.0\RetoClinicaVeterinaria.runtimeconfig.json
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\bin\Debug\net10.0\RetoClinicaVeterinaria.dll
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\bin\Debug\net10.0\RetoClinicaVeterinaria.pdb
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\obj\Debug\net10.0\RetoClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\obj\Debug\net10.0\RetoClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\obj\Debug\net10.0\RetoClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\obj\Debug\net10.0\RetoClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\obj\Debug\net10.0\RetoClinicaVeterinaria.dll
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\obj\Debug\net10.0\refint\RetoClinicaVeterinaria.dll
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\obj\Debug\net10.0\RetoClinicaVeterinaria.pdb
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\obj\Debug\net10.0\RetoClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\yanet\Desktop\220501097-04-AA1 – EV04 – Aplicación de la sintaxis básica de C# - Estructuras de control condicional\RetoClinicaVeterinaria\obj\Debug\net10.0\ref\RetoClinicaVeterinaria.dll
